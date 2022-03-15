@@ -1,8 +1,8 @@
 var http = require('http');
 // 用于请求的选项
 var options = {
-    host: '192.168.2.129',
-    port: '8080',
+    host: '192.168.2.131',
+    port: '8082',
     path: '/index.html'  
  };
  var callback = (response)=>{

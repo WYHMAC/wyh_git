@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "body-parser": "^1.17.2",
+    "art-template": "^4.9.1",
+    "express-art-template": "^1.0.0"
+  }
+}
